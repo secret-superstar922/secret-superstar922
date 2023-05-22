@@ -1,7 +1,7 @@
 ![MasterHead](https://miro.medium.com/max/1136/0*sDuDpo2NIBrYYVJl)
 <h1 align="center">👋 I'm Riley Taylor</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Mern+Stack+Developer;React+Native+Developer;JavaScript+Developer;Typescript+Developer;Content+Creator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Developer;Content+Creator)](https://git.io/typing-svg)
 --------------------------
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jsdevrazu&label=Profile%20views&color=0e75b6&style=flat" alt="jsdevrazu" /> </p>
