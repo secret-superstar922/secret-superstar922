@@ -20,13 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jsdevrazu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jsdevrazu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jsdevrazu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jsdevrazu" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18542908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18542908" height="30" width="40" /></a>
-<a href="https://fb.com/jsdevrzau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jsdevrzau" height="30" width="40" /></a>
-<a href="https://instagram.com/jsdevrazu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jsdevrazu" height="30" width="40" /></a>
-<a href="https://dribbble.com/jsdevrazu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="jsdevrazu" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucv54fmk_ur7sjx70w02usaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucv54fmk_ur7sjx70w02usaa" height="30" width="40" /></a>
+<a href="https://twitter.com/RileyTaylo41402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jsdevrazu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/riley-taylor-481561240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jsdevrazu" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Full Stack Development</h2>
