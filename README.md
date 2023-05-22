@@ -86,10 +86,10 @@
 <img src="https://camo.githubusercontent.com/1f29e28e02cf4f0d6be0aeaa25fdf5971271ecfa668a0d6f10e2d2aad51197c2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6269746275636b65742d2532333030343742332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6269746275636b6574266c6f676f436f6c6f723d7768697465" alt="Bitbucket" data-canonical-src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&amp;logo=bitbucket&amp;logoColor=white" style="max-width: 100%;">
 </div>
 <h2 align="left">AI Development</h2>
-
+<div>
 <img alt="python" src="https://camo.githubusercontent.com/1f779aefbf1f4e8796870438c76ace8040ea106a1229a3e669d555faf38e1421/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d4636434333343f6c6f676f3d707974686f6e266c6f676f436f6c6f723d626c7565" data-canonical-src="https://img.shields.io/badge/-Python-F6CC34?logo=python&amp;logoColor=blue" style="max-width: 100%;">
 <img alt="pytorch" src="https://camo.githubusercontent.com/fef1d9d1cf7e6f574014a01b7714fc2808ae59763858c7ab990b8895b4a4308d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5079546f7263682d6666646564383f6c6f676f3d7079746f726368266c6f676f436f6c6f723d453734413242" data-canonical-src="https://img.shields.io/badge/-PyTorch-ffded8?logo=pytorch&amp;logoColor=E74A2B" style="max-width: 100%;">
 <img alt="tensorflow" src="https://camo.githubusercontent.com/5cec5348189df3e7ddfa435fd0d956bc48647d8a00cbe889286f4f0b52724f27/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656e736f72466c6f772d6666646262353f6c6f676f3d74656e736f72666c6f77266c6f676f436f6c6f723d463738313030" data-canonical-src="https://img.shields.io/badge/-TensorFlow-ffdbb5?logo=tensorflow&amp;logoColor=F78100" style="max-width: 100%;">
 <img alt="pandas" src="https://camo.githubusercontent.com/304d0d2ff77c60bf9148d785e549b6c72a66f540037b8aabd59a1c876f605e5a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d50616e6461732d6663646565663f6c6f676f3d70616e646173266c6f676f436f6c6f723d453030343834" data-canonical-src="https://img.shields.io/badge/-Pandas-fcdeef?logo=pandas&amp;logoColor=E00484" style="max-width: 100%;">
 <img alt="jupyter" src="https://camo.githubusercontent.com/ab0729cdef472dbfd45c73c52b1185d51ec4045545547136ecec4eee0e2b411f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a7570797465722d6564656465643f6c6f676f3d6a757079746572266c6f676f436f6c6f723d463337373236" data-canonical-src="https://img.shields.io/badge/Jupyter-ededed?logo=jupyter&amp;logoColor=F37726" style="max-width: 100%;">
-
+</div>
